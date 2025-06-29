@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaravcod" alt="aaravcod" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analysis**
-
 - 💬 Ask me about **node, mysql, mongoDB**
 
 - 📫 How to reach me **jainaarav2712@gmail.com**
